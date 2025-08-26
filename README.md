@@ -1,2 +1,3 @@
-# Me
-Men haqimda
+## Hi there 👋
+Hello, my name is Javahir Xamdamboyev and I am a Frontend developer, currently studying JavaScript, in the future I want to become a leading developer in my field. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA3dTlycmV2ZHNoNWR3dDBxdGt5ZzZzbjUwOGFjaTJuOXhuZmJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" alt="rasm" width="35px"> <br>
+My <a href="https://t.me/Xamdamb0yev" style="text-decoration: none; position: relative; top: 10px;" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="img" width="20px"> </a> 
